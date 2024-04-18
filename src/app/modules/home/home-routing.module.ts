@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
+//definir rutas
 const routes: Routes = [];
 
 @NgModule({
